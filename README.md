@@ -1,6 +1,4 @@
-# JarvCore
+# JarvCore / Jarvify
 
-```npm install
-  npm install --save artyom.js
-  npm install --save react-p5-wrapper
-  ```
+A voice-command spotify playback controller. Only works with Spotify premium accounts.
+The Spotify Web Playback API is in beta, so the endpoints may change.
